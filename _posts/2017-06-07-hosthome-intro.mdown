@@ -3,7 +3,7 @@ layout:     post
 title:      HostHome Welcome
 author:     Moses Goldstein
 tags: 		post template
-subtitle:  	Home Away From Home
+subtitle:  	Call (585)-978-9932
 category:   HostHome
 ---
 

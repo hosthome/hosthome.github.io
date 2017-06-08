@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      HostHome Welcome
-author:     Moses Goldstein
+title:      Free Housing
+author:     HostHome
 tags: 		Post
 subtitle:  	Call or Text (585)-978-9932
 category:   HostHome

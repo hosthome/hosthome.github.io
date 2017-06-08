@@ -1,14 +1,5 @@
 # Members
 
-- name: Moses Goldstein
-  role: Founding Partner/CTO/Travel Tester
-  img: http://imgur.com/YD2OTVd.jpeg
-  github: maxgrok
-  gplus: 
-  bio: Moses Goldstein is a ...
-  url: http://maxgrok.github.io/
-  visible: true
-   
 - name: Ava Pipitone
   role: Founding Partner/CEO/Travel Tester
   img: http://imgur.com/OO21fGZ.jpeg
@@ -17,3 +8,11 @@
   url: http://ava-pipitone.net 
   visible: true
   
+- name: Moses Goldstein
+  role: Founding Partner/CTO/Travel Tester
+  img: http://imgur.com/YD2OTVd.jpeg
+  github: maxgrok
+  gplus: 
+  bio: Moses Goldstein is a ...
+  url: http://maxgrok.github.io/
+  visible: true

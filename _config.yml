@@ -11,9 +11,9 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  hosthome
+project_repository: hosthome.github.io
+disqus_shortname: hosthome
 g-analytics: UA-100680504-1
 altmetric: true
 

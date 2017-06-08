@@ -2,8 +2,8 @@
 layout:     post
 title:      HostHome Welcome
 author:     Moses Goldstein
-tags: 		HomeAwayFromHome
-subtitle:  	Call or Text: (585)-978-9932
+tags: 		Home Away From Home
+subtitle:  	Call or Text (585)-978-9932
 category:   HostHome
 ---
 

@@ -3,7 +3,7 @@ layout:     post
 title:      HostHome Welcome
 author:     Moses Goldstein
 tags: 		post template
-subtitle:  	Call (585)-978-9932
+subtitle:  	Call or Text: (585)-978-9932
 category:   HostHome
 ---
 

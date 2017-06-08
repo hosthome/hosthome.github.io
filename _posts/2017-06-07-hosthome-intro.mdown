@@ -4,7 +4,7 @@ title:      HostHome Welcome
 author:     Moses Goldstein
 tags: 		post template
 subtitle:  	Home Away From Home
-category:  HostHome
+category:   HostHome
 ---
 
 Hello & Welcome to HostHome!

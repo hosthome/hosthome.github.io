@@ -1,0 +1,27 @@
+.navbar{
+    margin-top:1%;
+    margin-left:2%;
+    color:white;
+}
+
+.container{
+    margin-top:20%;
+    color:white;
+    text-align:center;
+}
+video#bgvid {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background: url(hosthome.jpg) 0% 0% / cover no-repeat;
+}
+
+video {
+    object-fit: contain;
+}

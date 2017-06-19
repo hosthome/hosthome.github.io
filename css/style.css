@@ -28,24 +28,24 @@
     padding-left: 1.5em;
     padding-right: 1.5em;
 }
-.center-home{
+ul.center-home{
     list-style: none;
 }
 
 .center{
     margin-top:5%;
 }
-.center-home a{
+ul.center-home a{
     text-decoration: none;
     color:white;
     font-size: 36px;
     width:100%;
 }
 
-.center-home a:hover{
+ul.center-home a:hover{
     text-decoration: none;
 }
-.center-home a mark:hover{
+ul.center-home a mark:hover{
     text-decoration: none;
     color:green;
     font-size:36px;

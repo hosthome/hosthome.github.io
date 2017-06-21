@@ -1,7 +1,10 @@
 body{
     font-family: 'Spectral', serif;
 }
-
+.right-box{
+    float:right;
+    margin-top:-5%;
+}
 .container{
     text-align:center;
 }
